@@ -2,7 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://papadavis47.dev/course-directory"
+  "homepage": "https://papadavis47.dev/course-directory",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
